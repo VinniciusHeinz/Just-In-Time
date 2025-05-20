@@ -67,11 +67,6 @@ Este projeto pode ser usado em:
 - Nenhuma biblioteca externa
 - Executável em qualquer terminal Python puro
 
----
-
-## 🧾 Licença
-
-Este projeto é de uso livre para fins acadêmicos e profissionais. Se reutilizar, considere mencionar a fonte. 😉
 
 ---
 
